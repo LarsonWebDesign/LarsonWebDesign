@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Sabrina Larson 👋
 
-<!--
-**LarsonWebDesign/LarsonWebDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a WordPress developer and web designer who creates accessible, responsive websites for small businesses through **Larson Web Design**.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- WordPress and content management
+- HTML, CSS, and PHP
+- Responsive and accessible web design
+- E-commerce websites
+- Website maintenance and troubleshooting
+- On-page SEO and content organization
+
+## Current focus
+
+- Building thoughtful, user-friendly small-business websites
+- Improving my WordPress and PHP skills through practical projects
+- Sharing selected web-development work on GitHub
+
+## Featured work
+
+- [Larson Web Design](https://www.larsonwebdesign.com/)
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/sabrina-larson)
+- [Larson Web Design](https://www.larsonwebdesign.com/)
